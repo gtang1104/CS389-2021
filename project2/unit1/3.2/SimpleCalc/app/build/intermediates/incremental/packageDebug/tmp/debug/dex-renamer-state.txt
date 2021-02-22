@@ -1,0 +1,4 @@
+#Sun Feb 21 04:48:37 CST 2021
+base.0=/Users/guotang/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

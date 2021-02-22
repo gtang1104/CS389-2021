@@ -1,0 +1,96 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/guotang/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /Users/guotang/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /Users/guotang/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /Users/guotang/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/03e39abe22a0a33923bd6e75b1236769/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/9f0f448e42aac50f83edb0c0cf5d4b5a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/cbe14dd215f0a513ec50149e474f2762/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/2fa740f4b885743fafd19757633d0521/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/23587eed19d2944da75e759cd1fe37ed/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/baac5284393712f23f99edbfe632f0e6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/85a16ed8628ad9a6825c191f800b6521/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/guotang/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b12d649796a0df79606be64f2ad1e840/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/guotang/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5d3ec0e769dbc07be1e87b8668d21d15/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/guotang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0518702e9efe36cca275e3487365bcd7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/guotang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9db788bfea0967df207bd6a4b8ba1447/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/guotang/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /Users/guotang/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /Users/guotang/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+	package
+		ADDED from /Users/guotang/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:18:5-45
+		INJECTED from /Users/guotang/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/guotang/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/guotang/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml
+		ADDED from /Users/guotang/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+		INJECTED from /Users/guotang/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/guotang/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml
+		ADDED from /Users/guotang/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+		INJECTED from /Users/guotang/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/guotang/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:17:11-69
+application
+ADDED from /Users/guotang/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:20:5-32:19
+	android:supportsRtl
+		ADDED from /Users/guotang/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from /Users/guotang/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from /Users/guotang/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from /Users/guotang/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from /Users/guotang/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:25:9-40
+activity#com.example.android.SimpleCalc.MainActivity
+ADDED from /Users/guotang/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:26:9-31:20
+	android:name
+		ADDED from /Users/guotang/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:26:19-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/guotang/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/guotang/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /Users/guotang/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/guotang/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /Users/guotang/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from /Users/guotang/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/guotang/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml
+INJECTED from /Users/guotang/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/03e39abe22a0a33923bd6e75b1236769/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/03e39abe22a0a33923bd6e75b1236769/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/9f0f448e42aac50f83edb0c0cf5d4b5a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/9f0f448e42aac50f83edb0c0cf5d4b5a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/cbe14dd215f0a513ec50149e474f2762/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/cbe14dd215f0a513ec50149e474f2762/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/2fa740f4b885743fafd19757633d0521/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/2fa740f4b885743fafd19757633d0521/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/23587eed19d2944da75e759cd1fe37ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/23587eed19d2944da75e759cd1fe37ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/baac5284393712f23f99edbfe632f0e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/baac5284393712f23f99edbfe632f0e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/85a16ed8628ad9a6825c191f800b6521/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/85a16ed8628ad9a6825c191f800b6521/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/guotang/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b12d649796a0df79606be64f2ad1e840/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/guotang/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b12d649796a0df79606be64f2ad1e840/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/guotang/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5d3ec0e769dbc07be1e87b8668d21d15/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/guotang/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5d3ec0e769dbc07be1e87b8668d21d15/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/guotang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0518702e9efe36cca275e3487365bcd7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/guotang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0518702e9efe36cca275e3487365bcd7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/guotang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9db788bfea0967df207bd6a4b8ba1447/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/guotang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9db788bfea0967df207bd6a4b8ba1447/AndroidManifest.xml:20:5-44
+INJECTED from /Users/guotang/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml
+INJECTED from /Users/guotang/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/guotang/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml
+		ADDED from /Users/guotang/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/guotang/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/guotang/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml
+		ADDED from /Users/guotang/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/guotang/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml

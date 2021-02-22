@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/guotang/Documents/cs389/NotifyMe/app/src/main/AndroidManifest.xml:20:1-39:12
+INJECTED from /Users/guotang/Documents/cs389/NotifyMe/app/src/main/AndroidManifest.xml:20:1-39:12
+INJECTED from /Users/guotang/Documents/cs389/NotifyMe/app/src/main/AndroidManifest.xml:20:1-39:12
+INJECTED from /Users/guotang/Documents/cs389/NotifyMe/app/src/main/AndroidManifest.xml:20:1-39:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/885a52b2c4558cfce797fd5fa78cb90a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/guotang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/3179d5dd7d60eaf16903016a58b3423c/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ab0a84685893ed91d61745fbe36d08ec/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/41f0d2236fb56237173a566d7930ca41/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/66ac4247491f402bc34c1730ef57b22c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/ad00800485e9c4ee743c1ed7ddd693a1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/0a2c1675f257c1cd8b6b5b7f359fdf12/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/03da21c075cfa54fa23aa6f6ddc654e8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/guotang/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/d407693bf82aa9a9ffeff8fee716633f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/guotang/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4df89fef1f3cc048ec0090947721839b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/guotang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/980cbf93f90d2eed655e84d5fcbda848/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/guotang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a08b38d59d1cd0bff01aabfb8cc8eef9/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/guotang/Documents/cs389/NotifyMe/app/src/main/AndroidManifest.xml:20:1-39:12
+INJECTED from /Users/guotang/Documents/cs389/NotifyMe/app/src/main/AndroidManifest.xml:20:1-39:12
+INJECTED from /Users/guotang/Documents/cs389/NotifyMe/app/src/main/AndroidManifest.xml:20:1-39:12
+	package
+		ADDED from /Users/guotang/Documents/cs389/NotifyMe/app/src/main/AndroidManifest.xml:21:5-43
+		INJECTED from /Users/guotang/Documents/cs389/NotifyMe/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/guotang/Documents/cs389/NotifyMe/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/guotang/Documents/cs389/NotifyMe/app/src/main/AndroidManifest.xml
+		ADDED from /Users/guotang/Documents/cs389/NotifyMe/app/src/main/AndroidManifest.xml:20:1-39:12
+		INJECTED from /Users/guotang/Documents/cs389/NotifyMe/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/guotang/Documents/cs389/NotifyMe/app/src/main/AndroidManifest.xml
+		ADDED from /Users/guotang/Documents/cs389/NotifyMe/app/src/main/AndroidManifest.xml:20:1-39:12
+		INJECTED from /Users/guotang/Documents/cs389/NotifyMe/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/guotang/Documents/cs389/NotifyMe/app/src/main/AndroidManifest.xml:20:11-69
+application
+ADDED from /Users/guotang/Documents/cs389/NotifyMe/app/src/main/AndroidManifest.xml:23:5-37:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/guotang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/3179d5dd7d60eaf16903016a58b3423c/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/guotang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/3179d5dd7d60eaf16903016a58b3423c/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/guotang/Documents/cs389/NotifyMe/app/src/main/AndroidManifest.xml:28:9-35
+	android:label
+		ADDED from /Users/guotang/Documents/cs389/NotifyMe/app/src/main/AndroidManifest.xml:26:9-41
+	android:roundIcon
+		ADDED from /Users/guotang/Documents/cs389/NotifyMe/app/src/main/AndroidManifest.xml:27:9-54
+	android:icon
+		ADDED from /Users/guotang/Documents/cs389/NotifyMe/app/src/main/AndroidManifest.xml:25:9-43
+	android:allowBackup
+		ADDED from /Users/guotang/Documents/cs389/NotifyMe/app/src/main/AndroidManifest.xml:24:9-35
+	android:theme
+		ADDED from /Users/guotang/Documents/cs389/NotifyMe/app/src/main/AndroidManifest.xml:29:9-40
+activity#com.android.example.notifyme.MainActivity
+ADDED from /Users/guotang/Documents/cs389/NotifyMe/app/src/main/AndroidManifest.xml:30:9-36:20
+	android:name
+		ADDED from /Users/guotang/Documents/cs389/NotifyMe/app/src/main/AndroidManifest.xml:30:19-75
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/guotang/Documents/cs389/NotifyMe/app/src/main/AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from /Users/guotang/Documents/cs389/NotifyMe/app/src/main/AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from /Users/guotang/Documents/cs389/NotifyMe/app/src/main/AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/guotang/Documents/cs389/NotifyMe/app/src/main/AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from /Users/guotang/Documents/cs389/NotifyMe/app/src/main/AndroidManifest.xml:34:27-74
+uses-sdk
+INJECTED from /Users/guotang/Documents/cs389/NotifyMe/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/guotang/Documents/cs389/NotifyMe/app/src/main/AndroidManifest.xml
+INJECTED from /Users/guotang/Documents/cs389/NotifyMe/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/885a52b2c4558cfce797fd5fa78cb90a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/885a52b2c4558cfce797fd5fa78cb90a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/guotang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/3179d5dd7d60eaf16903016a58b3423c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/guotang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/3179d5dd7d60eaf16903016a58b3423c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ab0a84685893ed91d61745fbe36d08ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ab0a84685893ed91d61745fbe36d08ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/41f0d2236fb56237173a566d7930ca41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/41f0d2236fb56237173a566d7930ca41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/66ac4247491f402bc34c1730ef57b22c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/66ac4247491f402bc34c1730ef57b22c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/ad00800485e9c4ee743c1ed7ddd693a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/ad00800485e9c4ee743c1ed7ddd693a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/0a2c1675f257c1cd8b6b5b7f359fdf12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/0a2c1675f257c1cd8b6b5b7f359fdf12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/03da21c075cfa54fa23aa6f6ddc654e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/03da21c075cfa54fa23aa6f6ddc654e8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/guotang/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/d407693bf82aa9a9ffeff8fee716633f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/guotang/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/d407693bf82aa9a9ffeff8fee716633f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/guotang/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4df89fef1f3cc048ec0090947721839b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/guotang/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4df89fef1f3cc048ec0090947721839b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/guotang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/980cbf93f90d2eed655e84d5fcbda848/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/guotang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/980cbf93f90d2eed655e84d5fcbda848/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/guotang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a08b38d59d1cd0bff01aabfb8cc8eef9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/guotang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a08b38d59d1cd0bff01aabfb8cc8eef9/AndroidManifest.xml:20:5-44
+INJECTED from /Users/guotang/Documents/cs389/NotifyMe/app/src/main/AndroidManifest.xml
+INJECTED from /Users/guotang/Documents/cs389/NotifyMe/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/guotang/Documents/cs389/NotifyMe/app/src/main/AndroidManifest.xml
+		ADDED from /Users/guotang/Documents/cs389/NotifyMe/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/guotang/Documents/cs389/NotifyMe/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/guotang/Documents/cs389/NotifyMe/app/src/main/AndroidManifest.xml
+		ADDED from /Users/guotang/Documents/cs389/NotifyMe/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/guotang/Documents/cs389/NotifyMe/app/src/main/AndroidManifest.xml

@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/guotang/Documents/cs389/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:1-32:12
+INJECTED from /Users/guotang/Documents/cs389/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:1-32:12
+INJECTED from /Users/guotang/Documents/cs389/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:1-32:12
+INJECTED from /Users/guotang/Documents/cs389/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:1-32:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/4088db040adb2f940f214474a9c1970f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/guotang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/e97e2eecfd235cadd1a104c8c0aad16e/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/d99920e05e82e072d6cbec4298a585c8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/8795590d2a8cb18038504f7921f42bd6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/356e1cef20a956fc48c52e471130abf6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/c604e5353e99bcf3ee07e1a76069128b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/f87f7495f02ce801b8626fa9db545acf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e19790dcf9f0c55a9c600d66268fb1d6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/guotang/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/fda9841101e066f5bd8fbb4285013433/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/guotang/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c5ec2ad3d035e3d9e86a6f6173fcd608/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/guotang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ccdbc8f58f3389c06521e4024e9a45ac/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/guotang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2fc0cfca68808003e90b8e59c113bdcb/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/guotang/Documents/cs389/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:1-32:12
+INJECTED from /Users/guotang/Documents/cs389/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:1-32:12
+INJECTED from /Users/guotang/Documents/cs389/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:1-32:12
+	package
+		ADDED from /Users/guotang/Documents/cs389/HelloSharedPrefs/app/src/main/AndroidManifest.xml:16:11-57
+		INJECTED from /Users/guotang/Documents/cs389/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/guotang/Documents/cs389/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/guotang/Documents/cs389/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+		ADDED from /Users/guotang/Documents/cs389/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:1-32:12
+		INJECTED from /Users/guotang/Documents/cs389/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/guotang/Documents/cs389/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+		ADDED from /Users/guotang/Documents/cs389/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:1-32:12
+		INJECTED from /Users/guotang/Documents/cs389/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/guotang/Documents/cs389/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:11-69
+application
+ADDED from /Users/guotang/Documents/cs389/HelloSharedPrefs/app/src/main/AndroidManifest.xml:18:5-30:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/guotang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/e97e2eecfd235cadd1a104c8c0aad16e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/guotang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/e97e2eecfd235cadd1a104c8c0aad16e/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/guotang/Documents/cs389/HelloSharedPrefs/app/src/main/AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from /Users/guotang/Documents/cs389/HelloSharedPrefs/app/src/main/AndroidManifest.xml:21:9-41
+	android:icon
+		ADDED from /Users/guotang/Documents/cs389/HelloSharedPrefs/app/src/main/AndroidManifest.xml:20:9-43
+	android:allowBackup
+		ADDED from /Users/guotang/Documents/cs389/HelloSharedPrefs/app/src/main/AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from /Users/guotang/Documents/cs389/HelloSharedPrefs/app/src/main/AndroidManifest.xml:23:9-40
+activity#com.example.android.hellosharedprefs.MainActivity
+ADDED from /Users/guotang/Documents/cs389/HelloSharedPrefs/app/src/main/AndroidManifest.xml:24:9-29:20
+	android:name
+		ADDED from /Users/guotang/Documents/cs389/HelloSharedPrefs/app/src/main/AndroidManifest.xml:24:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/guotang/Documents/cs389/HelloSharedPrefs/app/src/main/AndroidManifest.xml:25:13-28:29
+action#android.intent.action.MAIN
+ADDED from /Users/guotang/Documents/cs389/HelloSharedPrefs/app/src/main/AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from /Users/guotang/Documents/cs389/HelloSharedPrefs/app/src/main/AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/guotang/Documents/cs389/HelloSharedPrefs/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /Users/guotang/Documents/cs389/HelloSharedPrefs/app/src/main/AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from /Users/guotang/Documents/cs389/HelloSharedPrefs/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/guotang/Documents/cs389/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+INJECTED from /Users/guotang/Documents/cs389/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/4088db040adb2f940f214474a9c1970f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/4088db040adb2f940f214474a9c1970f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/guotang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/e97e2eecfd235cadd1a104c8c0aad16e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/guotang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/e97e2eecfd235cadd1a104c8c0aad16e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/d99920e05e82e072d6cbec4298a585c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/d99920e05e82e072d6cbec4298a585c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/8795590d2a8cb18038504f7921f42bd6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/8795590d2a8cb18038504f7921f42bd6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/356e1cef20a956fc48c52e471130abf6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/356e1cef20a956fc48c52e471130abf6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/c604e5353e99bcf3ee07e1a76069128b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/c604e5353e99bcf3ee07e1a76069128b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/f87f7495f02ce801b8626fa9db545acf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/f87f7495f02ce801b8626fa9db545acf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e19790dcf9f0c55a9c600d66268fb1d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/guotang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e19790dcf9f0c55a9c600d66268fb1d6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/guotang/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/fda9841101e066f5bd8fbb4285013433/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/guotang/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/fda9841101e066f5bd8fbb4285013433/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/guotang/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c5ec2ad3d035e3d9e86a6f6173fcd608/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/guotang/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c5ec2ad3d035e3d9e86a6f6173fcd608/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/guotang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ccdbc8f58f3389c06521e4024e9a45ac/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/guotang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ccdbc8f58f3389c06521e4024e9a45ac/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/guotang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2fc0cfca68808003e90b8e59c113bdcb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/guotang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2fc0cfca68808003e90b8e59c113bdcb/AndroidManifest.xml:20:5-44
+INJECTED from /Users/guotang/Documents/cs389/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+INJECTED from /Users/guotang/Documents/cs389/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/guotang/Documents/cs389/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+		ADDED from /Users/guotang/Documents/cs389/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/guotang/Documents/cs389/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/guotang/Documents/cs389/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+		ADDED from /Users/guotang/Documents/cs389/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/guotang/Documents/cs389/HelloSharedPrefs/app/src/main/AndroidManifest.xml
